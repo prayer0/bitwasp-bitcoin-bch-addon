@@ -1,5 +1,5 @@
 {
-  "name": "btccom/bitwasp-bitcoin-bch-addon",
+  "name": "prayer0/bitwasp-bitcoin-bch-addon",
   "homepage": "https://github.com/btccom/bitwasp-bitcoin-bch-addon",
   "type": "library",
   "description": "Bridge to bitwasp/bitcoin for bch.",
