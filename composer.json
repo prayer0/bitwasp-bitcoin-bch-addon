@@ -26,7 +26,7 @@
   },
   "require": {
     "btccom/cashaddress": "v0.0.3",
-    "prayer0/bitcoin": "^1.0"
+    "prayer0/bitcoin": "dev-master"
   },
   "require-dev": {
     "phpunit/phpunit": "^5.7",
